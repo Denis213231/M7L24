@@ -43,7 +43,7 @@ python registration.py
 Логин: user5, Пароль: password5
 Логин: NEWuser, Пароль: slfvjgdafslbhv`
 ```
-
+q2wwesqwdqwqdqdqwdwqdqwdw
 ## Автор
 
 Kodland
